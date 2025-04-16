@@ -13,7 +13,7 @@ headers = {
 
 productlinks = []
 
-# Scrape from the first page to the last
+# Scrape LINK from the first page to the last
 for x in range(1, 51):
     url = f"https://books.toscrape.com/catalogue/page-{x}.html"
     r = requests.get(url, headers=headers)
@@ -69,7 +69,7 @@ for link in productlinks:
         print('Saving:', name)
 
     except Exception as e:
-        print("Gagal parsing:", link)
+        print("Parsing failure:", link)
 
 # Show 10 data
 df = pd.DataFrame(booklist)
@@ -77,4 +77,4 @@ print(df.head(10))
 
 # Save to CSV
 df.to_csv('books_scraped.csv', index=False, encoding='utf-8-sig')
-print("Data berhasil disimpan ke books_scraped.csv")
+print("Data successfully saved to books_scraped.csv")
