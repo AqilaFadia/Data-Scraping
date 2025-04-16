@@ -1,4 +1,4 @@
-# 📚 Web Scraping with BeautifulSoup and Requests
+# 📚 Web Scraping with [BeautifulSoup and Requests]()
 
 This folder contains a simple web scraping project using **BeautifulSoup**, **requests**, and **urllib.parse**.
 ### 🔧 Libraries Used
