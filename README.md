@@ -10,5 +10,5 @@ This folder contains a simple web scraping project using **BeautifulSoup**, **re
 ### 📌 Target Website
 - [books.toscrape.com](http://books.toscrape.com) — a test website for practicing web scraping
 ### Link Dataset
-- 📚 [Books Dataset from Books to Scrape - Kaggle](https://www.kaggle.com/datasets/jealousleopard/books-dataset)
+- 📚 [Books Dataset from Books to Scrape - Kaggle](https://www.kaggle.com/datasets/aqilafadia/book-scraped)
 
