@@ -7,7 +7,7 @@ This folder contains a simple web scraping project using **BeautifulSoup**, **re
 - `pandas` for saving the data into a CSV file
 - `urllib.parse.urljoin` to resolve relative URLs
 
-- 📚 [Article Link](https://www.kaggle.com/datasets/aqilafadia/book-scraped)
+- 📚 [Article Link](https://medium.com/ai-in-plain-english/i-just-learned-web-scraping-and-scraped-1000-books-from-a-website-d4f326832846)
 
 ## Web Scraping with [Scrapy](https://github.com/AqilaFadia/Data-Scraping/tree/main/bookscraper)
 In this post, I'll guide you through a simple web scraping project using Scrapy, one of the most powerful frameworks for web scraping in Python. Scrapy is designed for large-scale web scraping tasks and is perfect for projects that need to extract data from multiple pages or websites efficiently.
