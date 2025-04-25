@@ -1,4 +1,4 @@
-## 📚 Web Scraping with [BeautifulSoup and Requests](https://github.com/AqilaFadia/Data-Scraping/blob/main/bs4%26req/bs2.py)
+## Web Scraping with [BeautifulSoup and Requests](https://github.com/AqilaFadia/Data-Scraping/blob/main/bs4%26req/bs2.py)
 
 This folder contains a simple web scraping project using **BeautifulSoup**, **requests**, and **urllib.parse**.
 ### 🔧 Libraries Used
@@ -9,7 +9,7 @@ This folder contains a simple web scraping project using **BeautifulSoup**, **re
 
 - 📚 [Article Link](https://www.kaggle.com/datasets/aqilafadia/book-scraped)
 
-## 📚 Web Scraping with [Scrapy](https://github.com/AqilaFadia/Data-Scraping/blob/main/bs4%26req/bs2.py)
+## Web Scraping with [Scrapy](https://github.com/AqilaFadia/Data-Scraping/blob/main/bs4%26req/bs2.py)
 
 - 📚 [Article Link](https://www.kaggle.com/datasets/aqilafadia/book-scraped)
 
