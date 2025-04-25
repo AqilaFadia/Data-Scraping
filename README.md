@@ -18,7 +18,7 @@ In this post, I'll guide you through a simple web scraping project using Scrapy,
 - Complete Framework: Scrapy provides everything you need for scraping, including built-in support for crawling, parsing, and storing scraped data.
 
 - Highly Customizable: It’s easy to customize Scrapy to suit the needs of different websites.
-- 📚 [Article Link](https://www.kaggle.com/datasets/aqilafadia/book-scraped)
+- 📚 [Article Link](https://medium.com/@rakyatambis/scrapy-tutorial-for-beginners-step-by-step-guide-to-web-scraping-in-python-5b97633117a3)
 
 **Getting Started**
 First, you need to install Scrapy:
