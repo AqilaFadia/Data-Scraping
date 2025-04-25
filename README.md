@@ -21,10 +21,9 @@ In this post, I'll guide you through a simple web scraping project using Scrapy,
 
 **Getting Started**
 First, you need to install Scrapy:
+
 ```bash
 pip install scrapy
 
-
-- 📚 [Article Link](https://www.kaggle.com/datasets/aqilafadia/book-scraped)
 
 
