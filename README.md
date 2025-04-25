@@ -9,7 +9,7 @@ This folder contains a simple web scraping project using **BeautifulSoup**, **re
 
 - 📚 [Article Link](https://www.kaggle.com/datasets/aqilafadia/book-scraped)
 
-## Web Scraping with [Scrapy](https://github.com/AqilaFadia/Data-Scraping/blob/main/bs4%26req/bs2.py)
+## Web Scraping with [Scrapy](https://github.com/AqilaFadia/Data-Scraping/tree/main/bookscraper)
 In this post, I'll guide you through a simple web scraping project using Scrapy, one of the most powerful frameworks for web scraping in Python. Scrapy is designed for large-scale web scraping tasks and is perfect for projects that need to extract data from multiple pages or websites efficiently.
 
 **Why Choose Scrapy?**
