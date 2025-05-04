@@ -25,7 +25,7 @@ First, you need to install Scrapy:
 
 - `pip install scrapy` to resolve relative URLs
 
-## Web Scraping with [Selenium](https://github.com/AqilaFadia/Data-Scraping/blob/main/bs4%26req/bs2.py)
+## Web Scraping with [Selenium](https://github.com/AqilaFadia/Data-Scraping/blob/main/main.ipynb)
 
 This project demonstrates how to perform web scraping using **Selenium** in Python.  
 The goal is to extract movie data (title, rating, and link) from IMDb categorized by genre, and save it into a structured CSV file.
