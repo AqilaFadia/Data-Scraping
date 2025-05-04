@@ -35,6 +35,9 @@ Before running the script, make sure you have the following installed:
 - `pip install selenium pandas webdriver-manager` to resolve relative URLs
 - You can download ChromeDriver manually based on your Chrome version here:
 🔗 https://sites.google.com/chromium.org/driver/
+- We scrape movie categories and film data from IMDb's genre interest page:
+🔗 https://www.imdb.com/interest/all/?ref_=fn_asr_gnr
+
 
 
 
