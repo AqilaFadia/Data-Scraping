@@ -37,6 +37,7 @@ Before running the script, make sure you have the following installed:
 🔗 https://sites.google.com/chromium.org/driver/
 - We scrape movie categories and film data from IMDb's genre interest page:
 🔗 https://www.imdb.com/interest/all/?ref_=fn_asr_gnr
+- 📚 [Article Link](https://medium.com/@rakyatambis/scrapy-tutorial-for-beginners-step-by-step-guide-to-web-scraping-in-python-5b97633117a3)
 
 
 
