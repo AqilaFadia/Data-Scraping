@@ -39,6 +39,13 @@ Before running the script, make sure you have the following installed:
 🔗 https://www.imdb.com/interest/all/?ref_=fn_asr_gnr
 - 📚 [Article Link](https://medium.com/@rakyatambis/scrapy-tutorial-for-beginners-step-by-step-guide-to-web-scraping-in-python-5b97633117a3)
 
+  ## Web Scraping with [Playwright](https://github.com/AqilaFadia/Data-Scraping/blob/main/main.ipynb)
+
+This project demonstrates how to perform web scraping using **Playwright** in Python.  
+The goal is to 
+
+
+
 
 
 
