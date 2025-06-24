@@ -41,8 +41,17 @@ Before running the script, make sure you have the following installed:
 
   ## Web Scraping with [Playwright](https://github.com/AqilaFadia/Data-Scraping/blob/main/main.ipynb)
 
-This project demonstrates how to perform web scraping using **Playwright** in Python.  
-The goal is to 
+A simple portfolio project using **Playwright** to scrape live stream data from Twitch's "Just Chatting" category and store it in **Google Sheets** automatically every 15 minutes.
+
+### 🚀 Features
+
+- 🎥 Scrape live stream data from Twitch:
+  - Stream title
+  - Streamer username
+  - Viewer count
+- 📤 Save data to Google Sheets
+- ⏱️ Automated scraping every 15 minutes
+- 🔐 Secure configuration with `.env` and credentials
 
 
 
