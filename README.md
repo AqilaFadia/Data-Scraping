@@ -52,7 +52,7 @@ A simple portfolio project using **Playwright** to scrape live stream data from 
 - 📤 Save data to Google Sheets
 - ⏱️ Automated scraping every 15 minutes
 - 🔐 Secure configuration with `.env` and credentials
-- 📚 [Article Link](https://medium.com/@rakyatambis/scrapy-tutorial-for-beginners-step-by-step-guide-to-web-scraping-in-python-5b97633117a3)
+- 📚 [Article Link](https://medium.com/@rakyatambis/how-i-built-a-twitch-data-scraper-that-runs-every-15-minutes-with-python-playwright-7c80a5982d7e)
 
 
 
