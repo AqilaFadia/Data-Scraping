@@ -39,7 +39,7 @@ Before running the script, make sure you have the following installed:
 🔗 https://www.imdb.com/interest/all/?ref_=fn_asr_gnr
 - 📚 [Article Link](https://medium.com/@rakyatambis/scrapy-tutorial-for-beginners-step-by-step-guide-to-web-scraping-in-python-5b97633117a3)
 
-  ## Web Scraping with [Playwright](https://github.com/AqilaFadia/Data-Scraping/blob/main/main.ipynb)
+  ## Web Scraping with [Playwright](https://github.com/AqilaFadia/Data-Scraping/tree/main/twitch-scraper-playwright)
 
 A simple portfolio project using **Playwright** to scrape live stream data from Twitch's "Just Chatting" category and store it in **Google Sheets** automatically every 15 minutes.
 
