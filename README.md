@@ -55,6 +55,7 @@ A simple portfolio project using **Playwright** to scrape live stream data from 
 - 📚 [Article Link](https://medium.com/@rakyatambis/how-i-built-a-twitch-data-scraper-that-runs-every-15-minutes-with-python-playwright-7c80a5982d7e)
 
 ## Web Scraping with [Request API](https://github.com/AqilaFadia/Data-Scraping/tree/main/twitch-scraper-playwright)
+[Spotify Playlist Scraper using API(): This project demonstrates how to use the Spotify Web API to search for playlists based on a keyword (e.g. hip hop USA), extract metadata such as playlist name, URL, description, and follower count, and store it into a CSV file for further use or analysis.
 
 
 
