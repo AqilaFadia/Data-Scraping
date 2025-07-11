@@ -54,6 +54,8 @@ A simple portfolio project using **Playwright** to scrape live stream data from 
 - 🔐 Secure configuration with `.env` and credentials
 - 📚 [Article Link](https://medium.com/@rakyatambis/how-i-built-a-twitch-data-scraper-that-runs-every-15-minutes-with-python-playwright-7c80a5982d7e)
 
+## Web Scraping with [Request API](https://github.com/AqilaFadia/Data-Scraping/tree/main/twitch-scraper-playwright)
+
 
 
 
